@@ -51,6 +51,8 @@ Results
 - Firewall blocked unauthorized traffic and malicious scans.
 - VPN traffic was encrypted, ensuring secure access.
 - Fail2ban successfully detected and blocked SSH brute force attempts.
+![image](https://github.com/user-attachments/assets/bccc0346-5988-43b6-acb3-7a9b72cff8a5)
+
 
 How to Use
 1. Clone this repository:
